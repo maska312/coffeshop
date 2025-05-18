@@ -2,7 +2,7 @@ const rawLocalData = [
   {
       "_id": "6424335b59f9f6fdd657d2e1",
       "id": 1,
-      "name": "Signature Blend",
+      "name": "Signature Blend Coffe New",
       "description": "A rich, full-bodied coffee with notes of dark chocolate and black cherry. Grown on the slopes of a mist-covered mountain in Central America.",
       "price": 12.99,
       "region": "Central America",
